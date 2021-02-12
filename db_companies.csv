@@ -1,0 +1,115 @@
+;company_name;city;art;numbers_of_worker;main_art
+;DB Digital Ventures GmbH;Berlin;Vorsitzender;0;Vorsitzender
+;DB Media & Buch GmbH;Kassel;Vorsitzender;0;Vorsitzender
+;Deutsche Bahn Finance GmbH[F 2];Berlin;Vorsitzender;0;Vorsitzender
+;Usedomer Bäderbahn GmbH;Heringsdorf;Vorsitzender;174;Vorsitzender
+;DB Systel GmbH;Frankfurt am Main;Digitalisierung & Technik;5100;Digitalisierung & Technik
+;DB Gastronomie GmbH;Frankfurt am Main;Personal & Recht;0;Personal & Recht
+;DB JobService GmbH;Berlin;Personal & Recht;3000;Personal & Recht
+;DB Zeitarbeit GmbH;Berlin;Personal & Recht;2800;Personal & Recht
+;DB Fernverkehr AG;Frankfurt am Main;Geschäftsfeld DB Fernverkehr;16295;Personenverkehr
+;Ameropa-Reisen GmbH;Bad Homburg;Geschäftsfeld DB Fernverkehr;120;Personenverkehr
+;DB Arriva plc.;Sunderland/Großbritannien;Geschäftsfeld DB Arriva;52331;Personenverkehr
+;DB Regio AG;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Schiene);36374;Personenverkehr
+;DB RegioNetz Verkehrs GmbH;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Schiene);1000;Personenverkehr
+;DB ZugBus Regionalverkehr Alb-Bodensee GmbH (RAB);Ulm;Geschäftsfeld DB Regio (Sparte Schiene);1215;Personenverkehr
+;S-Bahn Berlin GmbH;Berlin;Geschäftsfeld DB Regio (Sparte Schiene);2744;Personenverkehr
+;S-Bahn Hamburg GmbH;Hamburg;Geschäftsfeld DB Regio (Sparte Schiene);1000;Personenverkehr
+;Autokraft GmbH;Kiel;Geschäftsfeld DB Regio (Sparte Bus);740;Personenverkehr
+;Regionalbus Braunschweig GmbH (RBB);Braunschweig;Geschäftsfeld DB Regio (Sparte Bus);318;Personenverkehr
+;Haller Busbetrieb GmbH;Walsrode;Geschäftsfeld DB Regio (Sparte Bus);166;Personenverkehr
+;Weser-Ems Busverkehr GmbH;Bremen;Geschäftsfeld DB Regio (Sparte Bus);1800;Personenverkehr
+;Hanekamp Busreisen GmbH;Cloppenburg;Geschäftsfeld DB Regio (Sparte Bus);120;Personenverkehr
+;Kreisbahn Aurich Verkehrsbetriebe GmbH;Aurich;Geschäftsfeld DB Regio (Sparte Bus);290;Personenverkehr
+;Verkehrsbetriebe Wiesmoor;Wiesmoor;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Busverkehr Ostwestfalen GmbH (BVO);Bielefeld;Geschäftsfeld DB Regio (Sparte Bus);290;Personenverkehr
+;BahnBus Hochstift (BBH) (;Paderborn;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Nahverkehr Ostwestfalen GmbH (NVO);Münster;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Hövelhofer Ortsbus GmbH ;Hövelhof;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Busverkehr Rheinland GmbH (BVR);Düsseldorf;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Westfalen Bus GmbH;Münster;Geschäftsfeld DB Regio (Sparte Bus);150;Personenverkehr
+;Busverkehr Ruhr-Sieg GmbH (BRS) (;Meschede;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;DB Busverkehr Hessen GmbH;Gießen;Geschäftsfeld DB Regio (Sparte Bus);420;Personenverkehr
+;Busverkehr Rhein-Neckar GmbH (BRN);Ludwigshafen;Geschäftsfeld DB Regio (Sparte Bus);155;Personenverkehr
+;DB Regio Bus Südwest GmbH;Ludwigshafen;Geschäftsfeld DB Regio (Sparte Bus);155;Personenverkehr
+;Omnibusverkehr Rhein-Nahe GmbH (ORN);Mainz;Geschäftsfeld DB Regio (Sparte Bus);330;Personenverkehr
+;Regional Bus Stuttgart GmbH (RBS);Stuttgart;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Friedrich Müller Omnibusunternehmen GmbH;Schwäbisch Hall;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Regionalbusverkehr Südwest GmbH (RVS);Karlsruhe;Geschäftsfeld DB Regio (Sparte Bus);412;Personenverkehr
+;Rhein-Mosel Verkehrsgesellschaft mbH (RMV);Koblenz;Geschäftsfeld DB Regio (Sparte Bus);200;Personenverkehr
+;DB Regio Bus Rhein-Mosel GmbH;Montabaur;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;rheinhunsrückbus (rhb);Simmern;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Südbadenbus GmbH (SBG);Freiburg;Geschäftsfeld DB Regio (Sparte Bus);143;Personenverkehr
+;DB Regio Bus Bayern GmbH (DRB);Ingolstadt;Geschäftsfeld DB Regio (Sparte Bus);165;Personenverkehr
+;DB Regionalverkehr Bayern GmbH (RVB);Ingolstadt;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Omnibusverkehr Franken GmbH (OVF);Nürnberg;Geschäftsfeld DB Regio (Sparte Bus);580;Personenverkehr
+;KOB GmbH;Oberthulba;Geschäftsfeld DB Regio (Sparte Bus);54;Personenverkehr
+;Regionalbus Ostbayern GmbH (RBO);Regensburg;Geschäftsfeld DB Regio (Sparte Bus);360;Personenverkehr
+;Regionalverkehr Oberbayern GmbH (RVO);München;Geschäftsfeld DB Regio (Sparte Bus);640;Personenverkehr
+;Regionalverkehr Allgäu GmbH (RVA);Oberstdorf;Geschäftsfeld DB Regio (Sparte Bus);105;Personenverkehr
+;Verkehrsgesellschaft mbH Untermain (VU);Aschaffenburg;Geschäftsfeld DB Regio (Sparte Bus);63;Personenverkehr
+;Bayern Express & P. Kühn Berlin GmbH;Berlin;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;Busverkehr Oder-Spree GmbH (BOS);Fürstenwalde;Geschäftsfeld DB Regio (Sparte Bus);170;Personenverkehr
+;DB Regio Bus Ost GmbH;Potsdam;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;DB Fahrzeuginstandhaltung GmbH;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Bus);7860;Personenverkehr
+;DB FuhrparkService GmbH;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Bus);0;Personenverkehr
+;DB Vertrieb GmbH;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Bus);4400;Personenverkehr
+;DB Dialog GmbH;Berlin;Geschäftsfeld DB Regio (Sparte Bus);1300;Personenverkehr
+;Deutsche Bahn Connect GmbH;Frankfurt am Main;Geschäftsfeld DB Regio (Sparte Bus);550;Personenverkehr
+;DB Netz AG;Frankfurt am Main;Geschäftsfeld DB Netze Fahrweg;40925;Infrastruktur
+;DB Bahnbau Gruppe GmbH;Berlin;Geschäftsfeld DB Netze Fahrweg;3000;Infrastruktur
+;DB Fahrwegdienste GmbH;Berlin;Geschäftsfeld DB Netze Fahrweg;3055;Infrastruktur
+;DB RegioNetz Infrastruktur GmbH;Frankfurt am Main;Geschäftsfeld DB Netze Fahrweg;;Infrastruktur
+;Deutsche Umschlaggesellschaft Schiene-Straße;Bodenheim;Geschäftsfeld DB Netze Fahrweg;570;Infrastruktur
+;DB Station&Service AG;Berlin;Geschäftsfeld DB Netze Personenbahnhöfe;0;Infrastruktur
+;DB BahnPark GmbH;Berlin;Geschäftsfeld DB Netze Personenbahnhöfe;0;Infrastruktur
+;DB Energie GmbH;Frankfurt am Main;Geschäftsfeld DB Netze Energie;0;Infrastruktur
+;DB Engineering & Consulting;Berlin;Weitere Unternehmen;0;Infrastruktur
+;DB Kommunikationstechnik GmbH;Eschborn;Weitere Unternehmen;0;Infrastruktur
+;DB Services GmbH;Berlin;Weitere Unternehmen;0;Infrastruktur
+;DB Sicherheit GmbH;Berlin;Weitere Unternehmen;0;Infrastruktur
+;DB Systemtechnik GmbH;Minden;Weitere Unternehmen;0;Infrastruktur
+;DB Cargo AG;Frankfurt am Main;Geschäftsfeld DB Cargo;29525;Güterverkehr & Logistik
+;DB Cargo Rail Danmark Services;Høje-Taastrup/Dänemark;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Cargo Deutschland AG;Mainz;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Cargo Italia S.r.l.;Alessandria/Italien;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Cargo Italia Services S.r.l.;Mailand/Italien;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Cargo Nederland N.V.;Utrecht/Niederlande;Geschäftsfeld DB Cargo;650;Güterverkehr & Logistik
+;DB Cargo Polska S.A.;Jaworzno/Polen;Geschäftsfeld DB Cargo;5979;Güterverkehr & Logistik
+;DB Cargo Schweiz GmbH;Glattbrugg/Schweiz;Geschäftsfeld DB Cargo;100;Güterverkehr & Logistik
+;DB Cargo UK Ltd.;Doncaster/England;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;Euro Cargo Rail SAS;Paris/Frankreich;Geschäftsfeld DB Cargo;830;Güterverkehr & Logistik
+;Transfesa Logistics;Madrid/Spanien;Geschäftsfeld DB Cargo;1074;Güterverkehr & Logistik
+;DB Schenker Rail Automotive GmbH ;Kelsterbach;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;Mitteldeutsche Eisenbahn GmbH;Schkopau;;330;Güterverkehr & Logistik
+;RBH Logistics GmbH (;Gladbeck;Geschäftsfeld DB Cargo;284;Güterverkehr & Logistik
+;DB Intermodal Services GmbH;Mainz;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Cargo BTT GmbH;Mainz;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Schenker Nieten GmbH;Freilassing;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;Logistic Center Hungaria Kft;Győr/Ungarn;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;Deutsche Bahn Cargo Romania SRL;Timișoara/Rumänien;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;TFG Transfracht;Mainz;Geschäftsfeld DB Cargo;0;Güterverkehr & Logistik
+;DB Schenker Spain-Tir;Barcelona/Spanien;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;EASY - Express Air Systems GmbH;Kriftel;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;ECO-Trucking GmbH;Coburg;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;ELAG Emder Lagerhaus und Automotive GmbH;Emden;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;EVAG Emder Verkehrs und Automotive Gesellschaft mbH ;Emden;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;EVB Handelshaus Bour GmbH ;Landau;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Fertrans AG ;Buchs/Schweiz;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;GVV Gesellschaft zur Verwaltung von Vermögenswerten mbH;Essen;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Intertec GmbH;Landau;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Intertec Retail Logistics GmbH;Landau;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Inter-Union Technohandel GmbH;Landau;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Karpeles Flight Services GmbH ;Frankfurt am Main;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Schenker Technik GmbH ;Essen;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Schenker Europe GmbH;;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;SCHENKER AIR TRANSPORT GmbH;Kelsterbach;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Schenker AG;Essen;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;SCHENKER BETEILIGUNGS GmbH;Dortmund;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Schenker Deutschland AG;Frankfurt am Main;Geschäftsfeld DB Schenker;17300;Güterverkehr & Logistik
+;SCHENKER INTERNATIONAL AG;Essen;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;SCHENKER INTERNATIONAL DEUTSCHLAND GMBH;Kelsterbach;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Stinnes Holz GmbH ;Berlin;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;TLS Transa Logistik & Service GmbH ;Offenbach am Main;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;TRANSA Spedition GmbH ;Offenbach am Main;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
+;Trilag Geschäftsführungs GmbH ;Trier;Geschäftsfeld DB Schenker;0;Güterverkehr & Logistik
